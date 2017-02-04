@@ -1,2 +1,2 @@
-# TCompiler
-a toy compiler (C)
+# TTCompiler
+编译原理学习实践
